@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 # 💫 About Me:
 <h3>👋 Hi, I’m Mobashshir Asad, a B.Tech Computer Science student with a passion for web development and programming. <br><br>🌐 With a solid foundation in HTML, CSS, and JavaScript, I enjoy creating visually appealing and user-friendly web applications. I also have experience with Python, which enhances my problem-solving skills and allows me to explore data analysis and automation.<br><br>💡 I’m always eager to learn and adapt to new technologies, and I thrive in collaborative environments where I can contribute and grow. I’m looking to connect with like-minded professionals and explore opportunities in the tech industry. I am actively seeking internship opportunities where I can apply my skills in real-world projects and contribute to innovative teams.<br><br>📫 Feel free to reach out if you’d like to connect or discuss potential projects! </h3>
 
